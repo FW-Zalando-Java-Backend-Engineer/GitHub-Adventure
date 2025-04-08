@@ -15,7 +15,7 @@ Welcome to the world of Git and GitHub! You're going to complete **4 fun exercis
 Make sure you have:
 ✅ Git installed – if not, download from [git-scm.com/downloads](https://git-scm.com/downloads)  
 ✅ A GitHub account – if not, sign up free at [github.com](https://github.com)  
-✅ A code editor like VS Code (optional, but helpful)  
+✅ A code editor like IntelliJ IDEA (optional, but helpful)  
 ✅ A big smile 😊
 
 ---
